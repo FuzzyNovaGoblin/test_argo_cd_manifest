@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repo: https://github.com/FuzzyNovaGoblin/test_argo_cd_manifest.git
+    repoURL: https://github.com/FuzzyNovaGoblin/test_argo_cd_manifest.git
     targetRevision: HEAD
     path: dev
   destination:
